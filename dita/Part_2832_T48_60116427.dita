@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_2832_T48_60116427">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 2832</ph> - CONTRACT FINANCING</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           28 U.S.C. 510; 40 U.S.C. 486(c); 28 CFR 0.75(j) and 28 CFR 0.76(j).
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           63 FR 16132, Apr. 2, 1998, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2832_1_T48_601164271.dita#Subpart_2832_1_T48_601164271">Subpart 2832.1 - Non-Commercial Item Purchase Financing</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2832_114_T48_60116427111.dita#Section_2832_114_T48_60116427111">2832.114 Unusual contract financing.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2832_4_T48_601164272.dita#Subpart_2832_4_T48_601164272">Subpart 2832.4 - Advance Payments for Non-Commercial Items</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2832_402_T48_60116427211.dita#Section_2832_402_T48_60116427211">2832.402 General.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2832_407_T48_60116427212.dita#Section_2832_407_T48_60116427212">2832.407 Interest.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2832_9_T48_601164273.dita#Subpart_2832_9_T48_601164273">Subpart 2832.9 - Prompt Payment</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2832_903_T48_60116427311.dita#Section_2832_903_T48_60116427311">2832.903 Policy.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2832_11_T48_601164274.dita#Subpart_2832_11_T48_601164274">Subpart 2832.11 - Electronic Funds Transfer</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2832_1110_T48_60116427411.dita#Section_2832_1110_T48_60116427411">2832.1110 Solicitation provision and contract clauses.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

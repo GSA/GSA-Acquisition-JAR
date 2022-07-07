@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_2811_T48_60116111">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 2811</ph> - DESCRIBING AGENCY NEEDS</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           28 U.S.C. 510; 40 U.S.C. 486(c); 28 CFR 0.75(j) and 28 CFR 0.76(j).
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           63 FR 16126, Apr. 2, 1998, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Section_2811_001_T48_60116111011.dita#Section_2811_001_T48_60116111011">2811.001 Definitions.</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Section_2811_002_T48_60116111012.dita#Section_2811_002_T48_60116111012">2811.002 Policy.</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2811_1_T48_601161111.dita#Subpart_2811_1_T48_601161111">Subpart 2811.1 - Selecting and Developing Requirements Documents</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2811_103_T48_60116111111.dita#Section_2811_103_T48_60116111111">2811.103 Market acceptance.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2811_104_70_T48_60116111112.dita#Section_2811_104_70_T48_60116111112">2811.104-70 Brand-name or equal description.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2811_6_T48_601161112.dita#Subpart_2811_6_T48_601161112">Subpart 2811.6 - Priorities and Allocations</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2811_603_T48_60116111211.dita#Section_2811_603_T48_60116111211">2811.603 Procedures.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>
