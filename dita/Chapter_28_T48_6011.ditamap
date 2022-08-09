@@ -19,7 +19,7 @@
                 href="Part_2800_T48_6011601.dita"
                 props="PART 2800"
                 outputclass="Part"/>
-      <topicref navtitle="PART 2801 - DEPARTMENT OF JUSTICE ACQUISITION REGULATIONS SYSTEM&#xA;"
+      <topicref navtitle="PART 2801 - DEPARTMENT OF JUSTICE ACQUISITION REGULATIONS SYSTEM&#xA;&#xA;&#xA;"
                 href="Part_2801_T48_6011602.dita"
                 props="PART 2801"
                 outputclass="Part">
@@ -114,7 +114,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 2802 - DEFINITIONS OF WORDS AND TERMS&#xA;"
+      <topicref navtitle="PART 2802 - DEFINITIONS OF WORDS AND TERMS&#xA;&#xA;&#xA;"
                 href="Part_2802_T48_6011603.dita"
                 props="PART 2802"
                 outputclass="Part">
@@ -128,7 +128,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 2803 - IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST&#xA;"
+      <topicref navtitle="PART 2803 - IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST&#xA;&#xA;&#xA;"
                 href="Part_2803_T48_6011604.dita"
                 props="PART 2803"
                 outputclass="Part">
@@ -189,7 +189,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 2804 - ADMINISTRATIVE MATTERS&#xA;"
+      <topicref navtitle="PART 2804 - ADMINISTRATIVE MATTERS&#xA;&#xA;&#xA;"
                 href="Part_2804_T48_6011605.dita"
                 props="PART 2804"
                 outputclass="Part">
@@ -268,7 +268,7 @@
              href="Subchapter_B_T48_601161.dita"
              props="SUBCHAPTER B"
              outputclass="SubChapter">
-      <topicref navtitle="PART 2805 - PUBLICIZING CONTRACT ACTIONS&#xA;"
+      <topicref navtitle="PART 2805 - PUBLICIZING CONTRACT ACTIONS&#xA;&#xA;&#xA;"
                 href="Part_2805_T48_6011616.dita"
                 props="PART 2805"
                 outputclass="Part">
@@ -304,7 +304,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 2806 - COMPETITION REQUIREMENTS&#xA;"
+      <topicref navtitle="PART 2806 - COMPETITION REQUIREMENTS&#xA;&#xA;&#xA;"
                 href="Part_2806_T48_6011617.dita"
                 props="PART 2806"
                 outputclass="Part">
@@ -355,7 +355,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 2807 - ACQUISITION PLANNING&#xA;"
+      <topicref navtitle="PART 2807 - ACQUISITION PLANNING&#xA;&#xA;&#xA;"
                 href="Part_2807_T48_6011618.dita"
                 props="PART 2807"
                 outputclass="Part">
@@ -394,7 +394,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 2808 - REQUIRED SOURCES OF SUPPLIES AND SERVICES&#xA;"
+      <topicref navtitle="PART 2808 - REQUIRED SOURCES OF SUPPLIES AND SERVICES&#xA;&#xA;&#xA;"
                 href="Part_2808_T48_6011619.dita"
                 props="PART 2808"
                 outputclass="Part">
@@ -408,7 +408,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 2809 - CONTRACTOR QUALIFICATIONS&#xA;"
+      <topicref navtitle="PART 2809 - CONTRACTOR QUALIFICATIONS&#xA;&#xA;&#xA;"
                 href="Part_2809_T48_60116110.dita"
                 props="PART 2809"
                 outputclass="Part">
@@ -443,7 +443,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 2811 - DESCRIBING AGENCY NEEDS&#xA;"
+      <topicref navtitle="PART 2811 - DESCRIBING AGENCY NEEDS&#xA;&#xA;&#xA;"
                 href="Part_2811_T48_60116111.dita"
                 props="PART 2811"
                 outputclass="Part">
@@ -478,7 +478,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 2812 - ACQUISITION OF COMMERCIAL ITEMS&#xA;"
+      <topicref navtitle="PART 2812 - ACQUISITION OF COMMERCIAL ITEMS&#xA;&#xA;&#xA;"
                 href="Part_2812_T48_60116112.dita"
                 props="PART 2812"
                 outputclass="Part">
@@ -497,7 +497,7 @@
              href="Subchapter_C_T48_601162.dita"
              props="SUBCHAPTER C"
              outputclass="SubChapter">
-      <topicref navtitle="PART 2813 - SIMPLIFIED ACQUISITION PROCEDURES&#xA;"
+      <topicref navtitle="PART 2813 - SIMPLIFIED ACQUISITION PROCEDURES&#xA;&#xA;&#xA;"
                 href="Part_2813_T48_60116213.dita"
                 props="PART 2813"
                 outputclass="Part">
@@ -528,7 +528,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 2814 - SEALED BIDDING&#xA;"
+      <topicref navtitle="PART 2814 - SEALED BIDDING&#xA;&#xA;&#xA;"
                 href="Part_2814_T48_60116214.dita"
                 props="PART 2814"
                 outputclass="Part">
@@ -558,7 +558,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 2815 - CONTRACTING BY NEGOTIATION&#xA;"
+      <topicref navtitle="PART 2815 - CONTRACTING BY NEGOTIATION&#xA;&#xA;&#xA;"
                 href="Part_2815_T48_60116215.dita"
                 props="PART 2815"
                 outputclass="Part">
@@ -606,7 +606,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 2816 - TYPES OF CONTRACTS&#xA;"
+      <topicref navtitle="PART 2816 - TYPES OF CONTRACTS&#xA;&#xA;&#xA;"
                 href="Part_2816_T48_60116216.dita"
                 props="PART 2816"
                 outputclass="Part">
@@ -645,7 +645,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 2817 - SPECIAL CONTRACTING METHODS&#xA;"
+      <topicref navtitle="PART 2817 - SPECIAL CONTRACTING METHODS&#xA;&#xA;&#xA;"
                 href="Part_2817_T48_60116217.dita"
                 props="PART 2817"
                 outputclass="Part">
@@ -673,7 +673,7 @@
              href="Subchapter_D_T48_601163.dita"
              props="SUBCHAPTER D"
              outputclass="SubChapter">
-      <topicref navtitle="PART 2819 - SMALL BUSINESS PROGRAMS&#xA;"
+      <topicref navtitle="PART 2819 - SMALL BUSINESS PROGRAMS&#xA;&#xA;&#xA;"
                 href="Part_2819_T48_60116318.dita"
                 props="PART 2819"
                 outputclass="Part">
@@ -722,7 +722,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 2822 - APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITIONS&#xA;"
+      <topicref navtitle="PART 2822 - APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITIONS&#xA;&#xA;&#xA;"
                 href="Part_2822_T48_60116319.dita"
                 props="PART 2822"
                 outputclass="Part">
@@ -774,7 +774,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 2823 - ENVIRONMENT, CONSERVATION, OCCUPATIONAL SAFETY, AND DRUG-FREE WORKPLACE&#xA;"
+      <topicref navtitle="PART 2823 - ENVIRONMENT, CONSERVATION, OCCUPATIONAL SAFETY, AND DRUG-FREE WORKPLACE&#xA;&#xA;&#xA;"
                 href="Part_2823_T48_60116320.dita"
                 props="PART 2823"
                 outputclass="Part">
@@ -814,7 +814,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 2824 - PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION&#xA;"
+      <topicref navtitle="PART 2824 - PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION&#xA;&#xA;&#xA;"
                 href="Part_2824_T48_60116321.dita"
                 props="PART 2824"
                 outputclass="Part">
@@ -828,7 +828,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 2825 - FOREIGN ACQUISITION&#xA;"
+      <topicref navtitle="PART 2825 - FOREIGN ACQUISITION&#xA;&#xA;&#xA;"
                 href="Part_2825_T48_60116322.dita"
                 props="PART 2825"
                 outputclass="Part">
@@ -865,7 +865,7 @@
              href="Subchapter_E_T48_601164.dita"
              props="SUBCHAPTER E"
              outputclass="SubChapter">
-      <topicref navtitle="PART 2828 - BONDS AND INSURANCE&#xA;"
+      <topicref navtitle="PART 2828 - BONDS AND INSURANCE&#xA;&#xA;&#xA;"
                 href="Part_2828_T48_60116423.dita"
                 props="PART 2828"
                 outputclass="Part">
@@ -901,7 +901,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 2829 - TAXES&#xA;"
+      <topicref navtitle="PART 2829 - TAXES&#xA;&#xA;&#xA;"
                 href="Part_2829_T48_60116424.dita"
                 props="PART 2829"
                 outputclass="Part">
@@ -915,7 +915,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 2830 - COST ACCOUNTING STANDARDS (CAS) ADMINISTRATION&#xA;"
+      <topicref navtitle="PART 2830 - COST ACCOUNTING STANDARDS (CAS) ADMINISTRATION&#xA;&#xA;&#xA;"
                 href="Part_2830_T48_60116425.dita"
                 props="PART 2830"
                 outputclass="Part">
@@ -929,7 +929,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 2831 - CONTRACT COST PRINCIPLES AND PROCEDURES&#xA;"
+      <topicref navtitle="PART 2831 - CONTRACT COST PRINCIPLES AND PROCEDURES&#xA;&#xA;&#xA;"
                 href="Part_2831_T48_60116426.dita"
                 props="PART 2831"
                 outputclass="Part">
@@ -960,7 +960,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 2832 - CONTRACT FINANCING&#xA;"
+      <topicref navtitle="PART 2832 - CONTRACT FINANCING&#xA;&#xA;&#xA;"
                 href="Part_2832_T48_60116427.dita"
                 props="PART 2832"
                 outputclass="Part">
@@ -1005,7 +1005,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 2833 - PROTESTS, DISPUTES, AND APPEALS&#xA;"
+      <topicref navtitle="PART 2833 - PROTESTS, DISPUTES, AND APPEALS&#xA;&#xA;&#xA;"
                 href="Part_2833_T48_60116428.dita"
                 props="PART 2833"
                 outputclass="Part">
@@ -1045,7 +1045,7 @@
              href="Subchapter_F_T48_601165.dita"
              props="SUBCHAPTER F"
              outputclass="SubChapter">
-      <topicref navtitle="PART 2834 - MAJOR SYSTEM ACQUISITION&#xA;"
+      <topicref navtitle="PART 2834 - MAJOR SYSTEM ACQUISITION&#xA;&#xA;&#xA;"
                 href="Part_2834_T48_60116529.dita"
                 props="PART 2834"
                 outputclass="Part">
@@ -1064,7 +1064,7 @@
              href="Subchapter_G_T48_601166.dita"
              props="SUBCHAPTER G"
              outputclass="SubChapter">
-      <topicref navtitle="PART 2842 - CONTRACT ADMINISTRATION&#xA;"
+      <topicref navtitle="PART 2842 - CONTRACT ADMINISTRATION&#xA;&#xA;&#xA;"
                 href="Part_2842_T48_60116630.dita"
                 props="PART 2842"
                 outputclass="Part">
@@ -1082,7 +1082,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 2845 - GOVERNMENT PROPERTY&#xA;"
+      <topicref navtitle="PART 2845 - GOVERNMENT PROPERTY&#xA;&#xA;&#xA;"
                 href="Part_2845_T48_60116631.dita"
                 props="PART 2845"
                 outputclass="Part">
@@ -1114,7 +1114,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 2846 - QUALITY ASSURANCE&#xA;"
+      <topicref navtitle="PART 2846 - QUALITY ASSURANCE&#xA;&#xA;&#xA;"
                 href="Part_2846_T48_60116632.dita"
                 props="PART 2846"
                 outputclass="Part">
@@ -1142,7 +1142,7 @@
              href="Subchapter_H_T48_601167.dita"
              props="SUBCHAPTER H"
              outputclass="SubChapter">
-      <topicref navtitle="PART 2852 - SOLICITATION PROVISIONS AND CONTRACT CLAUSES&#xA;"
+      <topicref navtitle="PART 2852 - SOLICITATION PROVISIONS AND CONTRACT CLAUSES&#xA;&#xA;&#xA;"
                 href="Part_2852_T48_60116733.dita"
                 props="PART 2852"
                 outputclass="Part">
