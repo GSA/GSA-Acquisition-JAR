@@ -2,9 +2,9 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="Part_2825_T48_60116322">
+   <topic id="Part_2808_T48_6011618">
       <title class="- topic/title ">
-         <ph props="autonumber">PART 2825</ph> - FOREIGN ACQUISITION</title>
+         <ph props="autonumber">PART 2808</ph> - REQUIRED SOURCES OF SUPPLIES AND SERVICES</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -17,28 +17,24 @@
 
 
 
-
-
-
-
                         </p>
          <ul otherprops="TOC">
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_2825_1_T48_601163221.dita#Subpart_2825_1_T48_601163221">Subpart 2825.1 - Buy American - Supplies</xref>
+                        href="Subpart_2808_4_T48_60116181.dita#Subpart_2808_4_T48_60116181">Subpart 2808.4 - Federal Supply Schedules</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_2825_103_T48_60116322111.dita#Section_2825_103_T48_60116322111">2825.103 Exceptions.</xref>
+                              href="Section_2808_405_T48_6011618111.dita#Section_2808_405_T48_6011618111">2808.405 Ordering procedures for Federal Supply Schedules.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_2825_105_T48_60116322112.dita#Section_2825_105_T48_60116322112">2825.105 Determining reasonableness of cost.</xref>
+                              href="Section_2808_405_3_T48_6011618112.dita#Section_2808_405_3_T48_6011618112">2808.405-3 Blanket purchase agreements (BPAs).</xref>
                      </p>
                   </li>
                </ul>
@@ -46,25 +42,19 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_2825_2_T48_601163222.dita#Subpart_2825_2_T48_601163222">Subpart 2825.2 - Buy American - Construction Materials</xref>
+                        href="Subpart_2808_6_T48_60116182.dita#Subpart_2808_6_T48_60116182">Subpart 2808.6 - Acquisition from Federal Prison Industries, Inc.</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_2825_202_T48_60116322211.dita#Section_2825_202_T48_60116322211">2825.202 Exceptions.</xref>
+                              href="Section_2808_605_T48_6011618211.dita#Section_2808_605_T48_6011618211">2808.605 Exceptions.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_2825_204_T48_60116322212.dita#Section_2825_204_T48_60116322212">2825.204 Evaluating offers of foreign construction material.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_2825_206_T48_60116322213.dita#Section_2825_206_T48_60116322213">2825.206 Noncompliance.</xref>
+                              href="Section_2808_605_70_T48_6011618212.dita#Section_2808_605_70_T48_6011618212">2808.605-70 Clearances.</xref>
                      </p>
                   </li>
                </ul>
@@ -72,13 +62,13 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_2825_10_T48_601163223.dita#Subpart_2825_10_T48_601163223">Subpart 2825.10 - Additional Foreign Acquisition Regulations</xref>
+                        href="Subpart_2808_8_T48_60116183.dita#Subpart_2808_8_T48_60116183">Subpart 2808.8 - Acquisition of Printing and Related Supplies</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_2825_1001_T48_60116322311.dita#Section_2825_1001_T48_60116322311">2825.1001 Waiver of right to examination of records.</xref>
+                              href="Section_2808_802_T48_6011618311.dita#Section_2808_802_T48_6011618311">2808.802 Policy.</xref>
                      </p>
                   </li>
                </ul>

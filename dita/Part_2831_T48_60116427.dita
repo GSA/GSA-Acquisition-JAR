@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_2831_T48_60116427">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 2831</ph> - CONTRACT COST PRINCIPLES AND PROCEDURES</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           28 U.S.C. 510; 40 U.S.C. 486(c); 28 CFR 0.75(j) and 0.76(j).
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           87 FR 47118, Aug. 2, 2022, unless otherwise noted.
+
+
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2831_1_T48_601164271.dita#Subpart_2831_1_T48_601164271">Subpart 2831.1 - Applicability</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2831_101_T48_60116427111.dita#Section_2831_101_T48_60116427111">2831.101 Objectives.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2831_109_T48_60116427112.dita#Section_2831_109_T48_60116427112">2831.109 Advance agreements.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2831_2_T48_601164272.dita#Subpart_2831_2_T48_601164272">Subpart 2831.2 - Contracts With Commercial Organizations</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2831_205_T48_60116427211.dita#Section_2831_205_T48_60116427211">2831.205 Selected costs.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2831_205_6_T48_60116427212.dita#Section_2831_205_6_T48_60116427212">2831.205-6 Compensation for personal services.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

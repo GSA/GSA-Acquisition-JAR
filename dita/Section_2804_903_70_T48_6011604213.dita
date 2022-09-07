@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_2804_903_70_T48_6011604213">
+      <title class="- topic/title ">
+         <ph props="autonumber">2804.903-70</ph> Reporting contract information.</title>
+      <conbody>
+         <p outputclass="List1">(a) Pursuant to FAR 4.903, the HCA or designee shall certify to the SPE, in the format specified in this section, that such official has examined the information submitted by that bureau as its Federal Procurement Data System (FPDS) data, that the data has been prepared pursuant to the requirements of 26 U.S.C. 6050M, and that, to the best of such official's knowledge and belief, it is compiled from bureau records maintained in the normal course of business for the purpose of making a true, correct, and complete return as required by 26 U.S.C. 6050M.
+</p>
+         <p outputclass="List1">(b) The following certification will be signed and dated by the HCA or designee and submitted with each bureau's annual FPDS report.
+</p>
+         <p xtrc="HD1">Certification
+</p>
+         <fig frame="all">
+            <image href="Graphics/er02au22.001.gif" placement="inline"/>
+         </fig>
+         <p outputclass="List1">(c) The SPE will certify the consolidated FPDS data for the Department, transmit the data to the Federal Procurement Data Center (FPDC), and authorize the FPDC to make returns to the IRS on behalf of the agency.
+
+
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

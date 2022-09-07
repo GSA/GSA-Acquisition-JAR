@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_2801_105_2_T48_6011601113">
+      <title class="- topic/title ">
+         <ph props="autonumber">2801.105-2</ph> Arrangement of regulation.</title>
+      <conbody>
+         <p xtrc="P">The JAR is subdivided into parts, which correspond to FAR parts. The numbering system permits the discrete identification of every JAR paragraph. This numbering system permits immediate identification of each JAR part with coverage of the same subject matter and same numbering system as in the FAR. Supplementary material for which there is no counterpart in the FAR is identified by a numerical suffix of 70 or higher in the final position of the reference number.
+</p>
+         <fig frame="all">
+            <image href="Graphics/er02au22.000.gif" placement="inline"/>
+         </fig>
+      </conbody>
+   </concept>
+</dita>
