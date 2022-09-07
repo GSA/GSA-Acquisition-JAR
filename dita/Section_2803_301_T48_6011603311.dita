@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_2803_301_T48_6011603311">
+      <title class="- topic/title ">
+         <ph props="autonumber">2803.301</ph> General.</title>
+      <conbody>
+         <p xtrc="P">DOJ personnel shall report suspected antitrust violations to the Attorney General (AG) through the Assistant Attorney General (AAG) for the Antitrust Division (ATR).
+</p>
+         <p outputclass="List1">(a) The report for the AG shall be addressed to: Attorney General, Attention: AAG/ATR, U.S. Department of Justice, 950 Pennsylvania Avenue NW, Washington, DC 20530.
+</p>
+         <p outputclass="List1">(b) The report shall include:
+</p>
+         <p outputclass="List2">(1) A brief statement describing the suspected practice and the reason for the suspicion; and
+</p>
+         <p outputclass="List2">(2) The name, address, and telephone number of an individual in the agency who can be contacted for further information.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

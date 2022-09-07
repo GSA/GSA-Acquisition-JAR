@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_2803_901_T48_6011603611">
+      <title class="- topic/title ">
+         <ph props="autonumber">2803.901</ph> Definitions.</title>
+      <conbody>
+         <p xtrc="P">As used in this subpart - 
+</p>
+         <p xtrc="P">
+                                 <i>Covered Individual</i> is defined as an employee of a contractor at any tier required by the Department to sign a Non-Disclosure Agreement (NDA), whether the NDA is directly between the Covered Individual and the Department or between the Covered Individual and a contractor, and whether the NDA is required by a contract or otherwise (<i>e.g.,</i> pursuant to a vendor demonstration, product trial, market research effort, or other non-contract efforts).
+</p>
+         <p xtrc="P">
+                                 <i>General NDA</i> means an NDA, other than an Intelligence-Related NDA, required by the Department to be signed by a Covered Individual.
+</p>
+         <p xtrc="P">
+                                 <i>Intelligence-Related NDA</i> means any NDA required by the Department to be signed by a Covered Individual who is connected with the conduct of an intelligence or intelligence-related activity.
+</p>
+         <p xtrc="P">
+                                 <i>Non-Disclosure Agreement</i> means any nondisclosure or confidentiality agreement, policy, or form, including the agreements in Standard Forms 312 (Classified Information Nondisclosure Agreement) and 4414 (Sensitive Compartmented Information Nondisclosure Agreement).
+
+
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

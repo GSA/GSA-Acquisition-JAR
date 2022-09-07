@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_2807_T48_6011617">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 2807</ph> - ACQUISITION PLANNING</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           28 U.S.C. 510; 40 U.S.C. 486(c); 28 CFR 0.75(j) and 0.76(j).
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           87 FR 47118, Aug. 2, 2022, unless otherwise noted.
+
+
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2807_1_T48_60116171.dita#Subpart_2807_1_T48_60116171">Subpart 2807.1 - Acquisition Plans</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2807_103_T48_6011617111.dita#Section_2807_103_T48_6011617111">2807.103 Agency-head responsibilities.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2807_104_T48_6011617112.dita#Section_2807_104_T48_6011617112">2807.104 General procedures.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2807_104_70_T48_6011617113.dita#Section_2807_104_70_T48_6011617113">2807.104-70 Bundled requirements.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

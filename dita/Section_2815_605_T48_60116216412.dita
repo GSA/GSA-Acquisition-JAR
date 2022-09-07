@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_2815_605_T48_60116216412">
+      <title class="- topic/title ">
+         <ph props="autonumber">2815.605</ph> Content of unsolicited proposals.</title>
+      <conbody>
+         <p xtrc="P">To ensure against contracts between DOJ and prospective offers that would exceed the limits of advance guidance set forth in FAR 15.604 and potentially result in an unfair advantage to an offeror, the offeror of an unsolicited proposal must include the following warranty in any unsolicited proposal. Contracting officers receiving an unsolicited proposal without this warranty shall not process the proposal until the offeror is notified and given an opportunity to submit a proper warranty. If no warranty is provided in a reasonable time, the contracting officer shall reject the unsolicited proposal and notify the offeror of the rejection and the reason therefore. The warranty must be signed by a responsible management official of the proposing organization authorized to contractually obligate the organization.
+</p>
+         <p xtrc="FP">UNSOLICITED PROPOSAL
+</p>
+         <p xtrc="FP">WARRANTY BY OFFEROR
+</p>
+         <p xtrc="P">This is to warrant that - 
+</p>
+         <p outputclass="List1">(a) This proposal has not been prepared under Government supervision;
+</p>
+         <p outputclass="List1">(b) The methods and approaches stated in the proposal were developed by this offeror;
+</p>
+         <p outputclass="List1">(c) Any contact with DOJ personnel has been with the limits of appropriate advance guidance set forth in FAR 15.604; and,
+</p>
+         <p outputclass="List1">(d) No prior commitments were received from DOJ personnel regarding acceptance of this proposal.
+</p>
+                                 <p xtrc="FP-DASH">Date:
+</p>
+                                 <p xtrc="FP-DASH">Organization:
+</p>
+                                 <p xtrc="FP-DASH">Name:
+</p>
+                                 <p xtrc="FP-DASH">Title:
+</p>
+                              </conbody>
+   </concept>
+</dita>

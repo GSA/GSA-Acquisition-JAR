@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_2839_102_T48_60116533112">
+      <title class="- topic/title ">
+         <ph props="autonumber">2839.102</ph> Management of risk.</title>
+      <conbody>
+         <p xtrc="P">Contracts involving DOJ Information and Information Systems shall comply with the security requirements prescribed in FAR 39.102 and all applicable DOJ security requirements, including without limitation all DOJ Policy Statements and DOJ Policy Instructions established under the DOJ Acquisition Management Order relating to the Management of Risk of DOJ Information and Information Systems.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

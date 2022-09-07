@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_2817_T48_60116218">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 2817</ph> - SPECIAL CONTRACTING METHODS</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           28 U.S.C. 510; 40 U.S.C. 486(c); 28 CFR 0.75(j); and 28 CFR 0.76(j).
+
+
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           87 FR 47118, Aug. 2, 2022, unless otherwise noted.
+
+
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2817_1_T48_601162181.dita#Subpart_2817_1_T48_601162181">Subpart 2817.1 - Multiyear Contracting</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2817_104_T48_60116218111.dita#Section_2817_104_T48_60116218111">2817.104 General.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2817_2_T48_601162182.dita#Subpart_2817_2_T48_601162182">Subpart 2817.2 - Options</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2817_204_T48_60116218211.dita#Section_2817_204_T48_60116218211">2817.204 Contracts.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2817_6_T48_601162183.dita#Subpart_2817_6_T48_601162183">Subpart 2817.6 - Management and Operating Contracts</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2817_602_T48_60116218311.dita#Section_2817_602_T48_60116218311">2817.602 Policy.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>
