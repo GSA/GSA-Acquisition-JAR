@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_2804_T48_6011604">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 2804</ph> - ADMINISTRATIVE MATTERS</title>
+      <title class="- topic/title ">PART 2804—ADMINISTRATIVE MATTERS
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -17,14 +17,12 @@
 
 
 
-
-
                         </p>
          <ul otherprops="TOC">
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_2804_4_T48_60116041.dita#Subpart_2804_4_T48_60116041">Subpart 2804.4 - Safeguarding Classified Information Within Industry</xref>
+                        href="Subpart_2804_4_T48_60116041.dita#Subpart_2804_4_T48_60116041">Subpart 2804.4—Safeguarding Classified Information Within Industry</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -36,7 +34,7 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_2804_402_70_T48_6011604112.dita#Section_2804_402_70_T48_6011604112">2804.402-70 Contractor personnel security program.</xref>
+                              href="Section_2804_402-70_T48_6011604112.dita#Section_2804_402-70_T48_6011604112">2804.402-70 Contractor personnel security program.</xref>
                      </p>
                   </li>
                </ul>
@@ -44,7 +42,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_2804_9_T48_60116042.dita#Subpart_2804_9_T48_60116042">Subpart 2804.9 - Taxpayer Identification Number Information</xref>
+                        href="Subpart_2804_9_T48_60116042.dita#Subpart_2804_9_T48_60116042">Subpart 2804.9—Taxpayer Identification Number Information</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -62,13 +60,13 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_2804_903_70_T48_6011604213.dita#Section_2804_903_70_T48_6011604213">2804.903-70 Reporting contract information.</xref>
+                              href="Section_2804_903-70_T48_6011604213.dita#Section_2804_903-70_T48_6011604213">2804.903-70 Reporting contract information.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_2804_903_71_T48_6011604214.dita#Section_2804_903_71_T48_6011604214">2804.903-71 Special reporting exceptions.</xref>
+                              href="Section_2804_903-71_T48_6011604214.dita#Section_2804_903-71_T48_6011604214">2804.903-71 Special reporting exceptions.</xref>
                      </p>
                   </li>
                </ul>
